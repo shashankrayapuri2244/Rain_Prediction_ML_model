@@ -1,5 +1,5 @@
-##🌧️ Rain Prediction using Machine Learning
-##📌 Overview
+###🌧️ Rain Prediction using Machine Learning
+###📌 Overview
 
 This project focuses on predicting whether it will rain on the following day using historical weather data. It is designed as a binary classification problem where the model learns patterns from past meteorological observations to make future predictions.
 
